@@ -2,7 +2,7 @@ package chapter1;
 
 import java.util.Scanner;
 
-public class Problem3 {
+class Problem3 {
     public String solution(String a){
         String answer = "";
         String[] array = a.split(" ");
